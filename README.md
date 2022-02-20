@@ -18,8 +18,9 @@
   <img align="center" alt="Rafa-HTML" height="36" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="36" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Bootstrap" height="54" width="50" src="https://www.logo.wine/a/logo/Bootstrap_(front-end_framework)/Bootstrap_(front-end_framework)-Logo.wine.svg">
-  <img align="center" alt="Rafa-mysql" height="40" width="44" src="https://www.pngkey.com/png/full/269-2693201_mysql-logo-circle-png.png">
-  <img align="center" alt="Rafa-DBeaver" height="38" width="44" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/DBeaver_logo.svg/1024px-DBeaver_logo.svg.png">
+  <img align="center" alt="Rafa-tailwindshades" height="48" width="50" src="https://bourhaouta.gallerycdn.vsassets.io/extensions/bourhaouta/tailwindshades/0.0.5/1592520164095/Microsoft.VisualStudio.Services.Icons.Default">
+  <img align="center" alt="Rafa-mysql" height="44" width="46" src="https://www.pngkey.com/png/full/269-2693201_mysql-logo-circle-png.png">
+  <img align="center" alt="Rafa-DBeaver" height="38" width="42" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/DBeaver_logo.svg/1024px-DBeaver_logo.svg.png">
   <img align="right" alt="Rafa-yoda" src="https://www.fightersgeneration.com/nf7/char/yoda-lightsaber.gif">
 </div>  
 
