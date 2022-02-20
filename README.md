@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Leonardo Alves👋
 
-- 🔭 Hoje trabalho com Sustentação
-- 🌱 Estudando PHP/Laravel
+- 🔭 Hoje trabalho com Sustentação(Analista de Sistemas)
+- 🌱 Estudando Python/PHP/
 - 📫 Contate-me no email: leonardoallves1992@gmail.com
 
 
@@ -12,8 +12,8 @@
 </div>
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="45" width="45" src="https://www.designbust.com/download/240/png/php_icon512.png">
-  <img align="center" alt="Rafa-php" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-PHP" height="45" width="45" src="https://www.designbust.com/download/240/png/php_icon512.png">
+  <img align="center" alt="Rafa-Js" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Bootstrap" height="50" width="40" src="https://www.logo.wine/a/logo/Bootstrap_(front-end_framework)/Bootstrap_(front-end_framework)-Logo.wine.svg">
