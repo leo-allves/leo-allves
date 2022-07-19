@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Leonardo Alves👋
 
-- 🔭 Hoje trabalho com Sustentação(Analista de Sistemas)
+- 🔭 Analista/Desenvolvedor
 - 🌱 Estudando Python/PHP/
 - 📫 Contate-me no email: leonardoallves1992@gmail.com
 
