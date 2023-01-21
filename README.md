@@ -5,11 +5,11 @@
 - 📫 Contate-me no email: leonardoallves1992@gmail.com
 
 
-<div>
+<!--<div>
   <a href="https://github.com/leo-allves">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leo-allves&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leo-allves&layout=compact&langs_count=7&theme=dark"/>
-</div>
+</div>-->
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-PHP" height="50" width="54" src="https://www.designbust.com/download/240/png/php_icon512.png">
