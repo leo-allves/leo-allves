@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Leonardo Alves👋
 
-- 🔭 Analista/Desenvolvedor
-- 🌱 Estudando Python/PHP/
+- 🔭 Analista/Desenvolvedor PHP
+- 🌱 Estudando Python/ Data Science
 - 📫 Contate-me no email: leonardoallves1992@gmail.com
 
 
