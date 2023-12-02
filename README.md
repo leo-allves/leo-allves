@@ -13,6 +13,7 @@
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="46" width="50" src="https://www.pngall.com/wp-content/uploads/5/Python-PNG-Clipart.png">
+  <img align="center" alt="Python" height="46" width="50" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/2bf1c982fb24528eee1559a96a25eb534c175cfd/SVG/Desktop.svg">
   <img align="center" alt="MySQL" height="44" width="46" src="https://www.pngkey.com/png/full/269-2693201_mysql-logo-circle-png.png">
   <img align="center" alt="DBeaver" height="42" width="42" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/DBeaver_logo.svg/1024px-DBeaver_logo.svg.png">
   <img align="center" alt="PHP" height="50" width="54" src="https://www.pngall.com/wp-content/uploads/2016/05/PHP-Logo.png">
