@@ -5,14 +5,14 @@
 - 📫 Contate-me no email: leonardoallves1992@gmail.com
 
 
-<!--<div>
+<div>
   <a href="https://github.com/leo-allves">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leo-allves&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leo-allves&layout=compact&langs_count=7&theme=dark"/>
-</div>-->
+</div>
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-PHP" height="50" width="54" src="https://www.designbust.com/download/240/png/php_icon512.png">
+  <img align="center" alt="Rafa-PHP" height="50" width="54" src="[https://www.designbust.com/download/240/png/php_icon512.png](https://www.pngall.com/wp-content/uploads/2016/05/PHP-Logo.png)">
   <img align="center" alt="Rafa-PHP" height="46" width="50" src="https://www.pngall.com/wp-content/uploads/5/Python-PNG-Clipart.png">
   <img align="center" alt="Rafa-Js" height="40" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="36" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
